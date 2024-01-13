@@ -1,0 +1,8 @@
+class RouteNames {
+  static const main = '/';
+  static const systemLogin = '/system_login';
+  static const systemMain = '/system_main';
+  static const systemRegister = '/system_register';
+  static const systemSetting = '/system_setting';
+  static const systemSplash = '/system_splash';
+}
